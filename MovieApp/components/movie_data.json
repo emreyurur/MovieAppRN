@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0",
+        "title": "Oppenheimer",
+        "director": "Christopher Nolan",
+        "year": 2023,
+        "isMovieOut": false,
+        "imageUrl": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+      },
+      {
+        "id": "1",
+        "title": "Barbie",
+        "director": "Greta Gerwig",
+        "year": 2023,
+        "isMovieOut": false,
+        "imageUrl": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+      },
+      {
+        "id": "2",
+        "title": "The Monkey King",
+        "director": "Anthony Stacchi",
+        "year": 2023,
+        "isMovieOut": false,
+        "imageUrl": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Heart of Stone",
+        "director": "Greg Rucka",
+        "year": 2023,
+        "isMovieOut": false,
+        "imageUrl": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg"
+      },
+      {
+        "id": "5",
+        "title": "Transformers: Rise of the Beasts",
+        "director": "Steven Caple Jr.",
+        "year": 2023,
+        "isMovieOut": true,
+        "imageUrl": "https://www.themoviedb.org/t/p/w220_and_h330_face/gPbM0MK8CP8A174rmUwGsADNYKD.jpg"
+      },
+      {
+        "id": "6",
+        "title": "The Godfather Part II",
+        "director": "Francis Ford Coppola",
+        "year": 1974,
+        "isMovieOut": false,
+        "imageUrl": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bMadFzhjy9T7R8J48QGq1ngWNAK.jpg"
+      }
+]
